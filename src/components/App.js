@@ -1,5 +1,5 @@
 import React from "react";
-//import axios from "axios" now commented;
+//import axios from "axios" now commented from my macbook;
 import unsplash from "../api/unsplash";
 import SearchBar from "./SearchBar";
 import ImageList from "./ImageList";
